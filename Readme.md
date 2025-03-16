@@ -10,6 +10,12 @@ This repository documents the mechanical design considerations and evolution of 
 - An **aluminum frame** was used to hold the hull, providing structural support.
 - The frame was **hollow**, which contributed to **positive buoyancy**.
 
+### **Manufactured results:**
+<p align="center">
+  <img src="Version1_content/PXL_20231230_095338993.MP.jpg" alt="Alt Text" width="400" height="300">
+</p>
+
+
 ### **Challenges Faced:**
 - The **center of mass** shifted backward, affecting stability.
 - The **bot became overly buoyant**, requiring **up to 15 kg** of additional external weight to counteract the buoyancy.
