@@ -11,7 +11,11 @@ This repository documents the mechanical design considerations and evolution of 
 - The frame was **hollow**, which contributed to **positive buoyancy**.
 
 ### **Manufactured results:**
-<p align="center">
+
+<p align="left">
+  <img src="Version1_content/PXL_20231230_095338993.MP.jpg" alt="Alt Text" width="400" height="300">
+</p>
+<p align="right">
   <img src="Version1_content/PXL_20231230_095338993.MP.jpg" alt="Alt Text" width="400" height="300">
 </p>
 
