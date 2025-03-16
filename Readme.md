@@ -39,6 +39,8 @@ This repository documents the mechanical design considerations and evolution of 
   ensured the bot achieved **neutral buoyancy at 9 kg**, without requiring additional weights.
 - Slots were still included in the design for **optional weight adjustments**, providing flexibility.
 
+<img src="version_2_designs/f9e5c548-d17d-46be-9264-5f9d83f82e55.PNG" alt="Alt Text" width="600" height="300">
+
 ### **Outcome & Benefits:**
 - The bot achieved **better buoyancy balance**.
 - **Improved energy efficiency**, as less power was required to stabilize and move.
