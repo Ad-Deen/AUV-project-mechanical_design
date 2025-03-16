@@ -1,52 +1,47 @@
-# Underwater Vehicle Bot - Design Principles
+# AUV Mechanical Design - Evolution & Strategy
 
 ## Overview
-This repository documents the principles and key considerations behind designing an underwater vehicle bot. Our goal is to develop a robust and efficient autonomous underwater system capable of maneuvering in aquatic environments while ensuring stability, reliability, and adaptability.
+This repository documents the mechanical design considerations and evolution of our Autonomous Underwater Vehicle (AUV). The primary focus is on achieving optimal buoyancy, stability, and structural integrity while ensuring efficiency in underwater maneuverability.
 
-## Key Design Considerations
+## **Version 1: Initial Design & Challenges**
 
-### 1. **Hydrodynamics & Structural Design**
-- The vehicle's shape minimizes drag and optimizes propulsion efficiency.
-- An acrylic enclosure is used to ensure waterproofing while allowing visibility for internal components.
-- Buoyancy control is fine-tuned to achieve neutral buoyancy for stable movement.
+### **Design Approach:**
+- The **center of mass** was initially intended to be at the geometric center of the bot.
+- An **aluminum frame** was used to hold the hull, providing structural support.
+- The frame was **hollow**, which contributed to **positive buoyancy**.
 
-### 2. **Propulsion & Maneuverability**
-- Thrusters are strategically positioned to provide six degrees of freedom.
-- Efficient BLDC motors with waterproofing measures are used to ensure longevity.
-- PID-based control for precise movement and stability.
+### **Challenges Faced:**
+- The **center of mass** shifted backward, affecting stability.
+- The **bot became overly buoyant**, requiring **up to 15 kg** of additional external weight to counteract the buoyancy.
+- Excessive weight led to:
+  - **High inertia**, making rapid underwater maneuvers difficult.
+  - **Increased battery consumption** due to the excessive mass to be controlled.
+- The overall design proved inefficient in terms of weight distribution and control underwater.
 
-### 3. **Waterproofing & Pressure Resistance**
-- Sealing techniques include O-rings and waterproof connectors to prevent leakage.
-- Pressure-resistant materials and enclosures are chosen based on the operating depth.
-- Desiccants or humidity sensors are used to monitor internal moisture levels.
+## **Version 2: Optimized Design & Improvements**
 
-### 4. **Power System & Energy Efficiency**
-- A well-balanced power distribution system prevents voltage drops and overheating.
-- Li-Po or Li-ion battery packs provide efficient power while maintaining a lightweight design.
-- Smart power management optimizes energy consumption for prolonged operation.
+### **Design Modifications:**
+- The frame was **redesigned and 3D printed** with **100% infill density wiht PETG** to achieve a **negatively buoyant** structure.
+- External volume was **minimized**, reducing drag and making the design more compact.
+- The updated frame, in combination with:
+  - The **weight of electronics**
+  - **External weight holders**
+  ensured the bot achieved **neutral buoyancy at 9 kg**, without requiring additional weights.
+- Slots were still included in the design for **optional weight adjustments**, providing flexibility.
 
-### 5. **Sensor Integration & Navigation**
-- IMU (Inertial Measurement Unit) for stability and orientation control.
-- Depth sensors, sonar, or camera-based vision for environmental awareness.
-- Embedded control system (e.g., ESP32, Jetson) for real-time processing and autonomous navigation.
+### **Outcome & Benefits:**
+- The bot achieved **better buoyancy balance**.
+- **Improved energy efficiency**, as less power was required to stabilize and move.
+- **Enhanced maneuverability**, allowing smoother and quicker control underwater.
+- A structurally **more robust and modular design** suitable for further optimizations.
 
-### 6. **Communication & Data Transmission**
-- Acoustic or tethered communication for reliable underwater data exchange.
-- Wireless communication (e.g., Wi-Fi or RF) for surface-level data transmission.
-- Remote monitoring and control via a user-friendly interface.
+## **Future Improvements**
+- Evaluating materials with high strength-to-weight ratio to further optimize weight.
+- Introducing adaptive weight distribution systems to enhance control.
+- Additional hydrodynamic testing for drag reduction.
 
-### 7. **Safety & Fail-Safe Mechanisms**
-- Emergency floatation system in case of critical failures.
-- Auto-return functionality in case of signal loss.
-- Redundant sensors for system reliability and error correction.
-
-### 8. **Software & Control Algorithm**
-- ROS-based or custom control framework for modular and scalable operation.
-- AI-based object recognition for underwater mapping.
-- Efficient filtering techniques (e.g., Kalman Filter) to reduce sensor noise.
-
-## Conclusion
-Designing an underwater vehicle bot requires a multidisciplinary approach involving mechanical, electrical, and software engineering. By addressing the above key principles, we ensure a robust, efficient, and adaptable system suitable for various underwater applications.
+## **Conclusion**
+Through iterative mechanical design, we successfully transitioned from an overweight, difficult-to-control AUV to a compact, efficient, and neutrally buoyant design. These insights will guide further refinements in our pursuit of a high-performance underwater vehicle.
 
 ---
 ### Contributors
@@ -55,4 +50,4 @@ Designing an underwater vehicle bot requires a multidisciplinary approach involv
 - **Ad-Deen Mahbub**
 - **Team Onushondhan (SAUVC 2025)**
 
-For any queries, feel free to raise an issue or contribute to this repository!
+For further queries, feel free to raise an issue or contribute to the repository!
