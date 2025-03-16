@@ -28,7 +28,7 @@ This repository documents the mechanical design considerations and evolution of 
 <img src="Version1_content/20231231_184412.jpg" alt="Alt Text" width="400" height="300">
 
 ## **Version 2: Optimized Design & Improvements**
-<img src="version_2_designs/2b851e1f-f83c-4dbe-95a4-9788cfc835a7.PNG" alt="Alt Text" width="400" height="300">
+<img src="version_2_designs/2b851e1f-f83c-4dbe-95a4-9788cfc835a7.PNG" alt="Alt Text" width="500" height="300">
 
 ### **Design Modifications:**
 - The frame was **redesigned and 3D printed** with **100% infill density wiht PETG** to achieve a **negatively buoyant** structure.
