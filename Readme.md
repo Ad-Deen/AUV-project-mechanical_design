@@ -25,6 +25,8 @@ This repository documents the mechanical design considerations and evolution of 
   - **Increased battery consumption** due to the excessive mass to be controlled.
 - The overall design proved inefficient in terms of weight distribution and control underwater.
 
+<img src="Version1_content/20231231_184412.jpg" alt="Alt Text" width="400" height="300">
+
 ## **Version 2: Optimized Design & Improvements**
 
 ### **Design Modifications:**
