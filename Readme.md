@@ -12,12 +12,9 @@ This repository documents the mechanical design considerations and evolution of 
 
 ### **Manufactured results:**
 
-<p align="left">
-  <img src="Version1_content/PXL_20231230_095338993.MP.jpg" alt="Alt Text" width="400" height="300">
-</p>
-<p align="right">
-  <img src="Version1_content/PXL_20231230_095338993.MP.jpg" alt="Alt Text" width="400" height="300">
-</p>
+<img src="Version1_content/PXL_20231230_095338993.MP.jpg" alt="Alt Text" width="400" height="300">
+<img src="Version1_content/PXL_20231230_095338993.MP.jpg" alt="Alt Text" width="400" height="300">
+
 
 
 ### **Challenges Faced:**
