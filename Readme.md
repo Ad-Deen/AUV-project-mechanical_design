@@ -1,7 +1,7 @@
 # AUV Mechanical Design - Evolution & Strategy
 
 ## Overview
-This repository documents the mechanical design considerations and evolution of our Autonomous Underwater Vehicle (AUV). The primary focus is on achieving optimal buoyancy, stability, and structural integrity while ensuring efficiency in underwater maneuverability.
+This repository documents the mechanical design considerations and evolution of our Autonomous Underwater Vehicle (AUV) Project - Orca. The primary focus is on achieving optimal buoyancy, stability, and structural integrity while ensuring efficiency in underwater maneuverability.
 
 ## **Version 1: Initial Design & Challenges**
 
