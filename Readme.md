@@ -26,6 +26,8 @@ This repository documents the mechanical design considerations and evolution of 
 - The overall design proved inefficient in terms of weight distribution and control underwater.
 
 <img src="Version1_content/20231231_184412.jpg" alt="Alt Text" width="400" height="300">
+- The natural bouyancy control mechanism was also made but not utilized for core design issues
+<img src="Version1_content/BB.png" alt="Alt Text" width="400" height="300">
 
 ## **Version 2: Optimized Design & Improvements**
 <img src="version_2_designs/2b851e1f-f83c-4dbe-95a4-9788cfc835a7.PNG" alt="Alt Text" width="700" height="300">
