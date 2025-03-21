@@ -52,19 +52,13 @@ This repository documents the mechanical design considerations and evolution of 
 - **Detailed contents on Version 2 designs**
 [Access Folder on Google Drive](https://drive.google.com/drive/folders/1BLFM8DaaLz3syUbcvgXGc0M6o55n4rce?usp=drive_link)
 
-## **Future Improvements**
-- Evaluating materials with high strength-to-weight ratio to further optimize weight.
-- Introducing adaptive weight distribution systems to enhance control.
-- Additional hydrodynamic testing for drag reduction.
 
 ## **Conclusion**
 Through iterative mechanical design, we successfully transitioned from an overweight, difficult-to-control AUV to a compact, efficient, and neutrally buoyant design. These insights will guide further refinements in our pursuit of a high-performance underwater vehicle.
 
 ---
 ### Contributors
-- **Nainaiu Rakhaine**
-- **Mirza Nihal Baig**
 - **Ad-Deen Mahbub**
-- **Team Onushondhan (SAUVC 2025)**
+
 
 For further queries, feel free to raise an issue or contribute to the repository!
