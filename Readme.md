@@ -49,7 +49,7 @@ This repository documents the mechanical design considerations and evolution of 
 - **Improved energy efficiency**, as less power was required to stabilize and move.
 - **Enhanced maneuverability**, allowing smoother and quicker control underwater.
 - A structurally **more robust and modular design** suitable for further optimizations.
-**Detailed contents on Version 2 designs**
+- **Detailed contents on Version 2 designs**
 [Access Folder on Google Drive](https://drive.google.com/drive/folders/1BLFM8DaaLz3syUbcvgXGc0M6o55n4rce?usp=drive_link)
 
 ## **Future Improvements**
