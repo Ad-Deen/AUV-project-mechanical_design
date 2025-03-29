@@ -44,6 +44,12 @@ This repository documents the mechanical design considerations and evolution of 
 <img src="version_2_designs/f9e5c548-d17d-46be-9264-5f9d83f82e55.PNG" alt="Alt Text" width="700" height="300">
 <img src="manuactured_v2/photo_6178945956293232208_y.jpg" alt="Alt Text" width="400" height="300">
 
+### **Centre of Gravity adjustment system:**
+- **The x axis is th principal axis for the robot's orientation** and we can adjust centre of gravity distribution along the principal axis for **robust passive adjustment** of it's centre of gravity alighment.
+- The design was done in such a way that the center of gravity must lie along the central **x-axis**.
+- While **variable adjustment of CoG along x axis** means we can accurately maintain a steady Centre of gravity position at **pitch close to 0 degree**.
+<img src="manuactured_v2/photo_6178945956293232208_y.jpg" alt="Alt Text" width="400" height="300">
+
 ### **Outcome & Benefits:**
 - The bot achieved **better buoyancy balance**.
 - **Improved energy efficiency**, as less power was required to stabilize and move.
