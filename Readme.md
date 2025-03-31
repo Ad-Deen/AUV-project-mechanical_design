@@ -56,7 +56,7 @@ This repository documents the mechanical design considerations and evolution of 
 <img src="Internal Electronics Chember/Screenshot 2025-03-31 222007.png" alt="Alt Text" >
 
 <div style="white-space: nowrap;">
-  <img src="Internal Electronics Chember/Screenshot 2025-03-31 222116.png" alt="Alt Text" style="width: 400px; height: auto; display: inline-block; margin-right: 10px;">
+  <img src="Internal Electronics Chember/Screenshot 2025-03-31 222116.png" alt="Alt Text" style="width: 600px; height: auto; display: inline-block; margin-right: 10px;">
   <img src="Internal Electronics Chember/Screenshot 2025-03-31 222143.png" alt="Alt Text" style="width: 200px; height: auto; display: inline-block;">
 </div>
 ### **Outcome & Benefits:**
