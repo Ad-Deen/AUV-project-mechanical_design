@@ -73,8 +73,5 @@ This repository documents the mechanical design considerations and evolution of 
 Through iterative mechanical design, we successfully transitioned from an overweight, difficult-to-control AUV to a compact, efficient, and neutrally buoyant design. These insights will guide further refinements in our pursuit of a high-performance underwater vehicle.
 
 ---
-### Contributors
-- **Ad-Deen Mahbub**
-
 
 For further queries, feel free to raise an issue or contribute to the repository!
