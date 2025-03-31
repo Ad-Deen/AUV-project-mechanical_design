@@ -60,7 +60,14 @@ This repository documents the mechanical design considerations and evolution of 
   <img src="Internal Electronics Chember/Screenshot 2025-03-31 222143.png" alt="Alt Text" style="width: 200px; height: auto; display: inline-block;">
 </div>
 
-Robotic manipualtor/AUV_gripperv19_Light-AutodeskFusionEducationLicense2025-01-3021-03-15-ezgif.com-video-to-gif-converter.gif
+
+### **Custom 6 DOF manipulator Design:**
+- One of the **primary task** was to **pick up a 3cm radius ball** from a busket underwater.
+- So we designed a robotic manipulator for it. The **launch pad consist of a camera**. The base (the launching pad) has a **radial targeting system with 2 underwater servo for Azimuth and Elevation adjustment**.
+- Another servo to **launch the gripper to the target**. ANother **string based controlled gripper** with a mini servo to grip the target.
+- This ensures smooth targeting and launching of the End Effector towards the target calculating underwater proximity using the camera.
+- The **bavel gear system allowed opposite rotary mechanism** to launch the EF to the target with accurate mechanism **avoiding the need for and addition servo for two extension rods holding the EF**.
+  
 <div style="white-space: nowrap;">
   <img src="Robotic manipualtor/AUV_gripperv19_Light-AutodeskFusionEducationLicense2025-01-3021-03-15-ezgif.com-video-to-gif-converter.gif" alt="Alt Text" style="width: 400px; height: auto; display: inline-block; margin-right: 10px;">
   <img src="Robotic manipualtor/manipulator-ezgif.com-video-to-gif-converter.gif" alt="Alt Text" style="width: 400px; height: auto; display: inline-block;">
