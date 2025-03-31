@@ -53,7 +53,7 @@ This repository documents the mechanical design considerations and evolution of 
 ### **Internal Design for Electronics assembly:**
 - Hull internal chamber is designed to accomodate the power and logic circuit with esc controllers and micro controllers.
 - The 3D prints are done with PETG+ 100% infill density.
-<img src="Internal Electronics Chember/Screenshot 2025-03-31 222007.png" alt="Alt Text" width="600" height="400">
+<img src="Internal Electronics Chember/Screenshot 2025-03-31 222007.png" alt="Alt Text" >
 <img src="Internal Electronics Chember/Screenshot 2025-03-31 222116.png" alt="Alt Text" width="600" height="400">
 <img src="Internal Electronics Chember/Screenshot 2025-03-31 222143.png" alt="Alt Text" width="600" height="400">
 
