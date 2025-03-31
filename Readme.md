@@ -60,6 +60,12 @@ This repository documents the mechanical design considerations and evolution of 
   <img src="Internal Electronics Chember/Screenshot 2025-03-31 222143.png" alt="Alt Text" style="width: 200px; height: auto; display: inline-block;">
 </div>
 
+Robotic manipualtor/AUV_gripperv19_Light-AutodeskFusionEducationLicense2025-01-3021-03-15-ezgif.com-video-to-gif-converter.gif
+<div style="white-space: nowrap;">
+  <img src="Robotic manipualtor/AUV_gripperv19_Light-AutodeskFusionEducationLicense2025-01-3021-03-15-ezgif.com-video-to-gif-converter.gif" alt="Alt Text" style="width: 400px; height: auto; display: inline-block; margin-right: 10px;">
+  <img src="Robotic manipualtor/manipulator-ezgif.com-video-to-gif-converter.gif" alt="Alt Text" style="width: 400px; height: auto; display: inline-block;">
+</div>
+
 ### **Outcome & Benefits:**
 - The bot achieved **better buoyancy balance**.
 - **Improved energy efficiency**, as less power was required to stabilize and move.
