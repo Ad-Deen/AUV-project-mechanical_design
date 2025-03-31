@@ -54,11 +54,10 @@ This repository documents the mechanical design considerations and evolution of 
 - Hull internal chamber is designed to accomodate the power and logic circuit with esc controllers and micro controllers.
 - The 3D prints are done with PETG+ 100% infill density.
 <img src="Internal Electronics Chember/Screenshot 2025-03-31 222007.png" alt="Alt Text" >
-<img src="Internal Electronics Chember/Screenshot 2025-03-31 222116.png" alt="Alt Text" width="300" height="200">
-<img src="Internal Electronics Chember/Screenshot 2025-03-31 222143.png" alt="Alt Text" width="300" height="200">
+
 <div style="white-space: nowrap;">
-  <img src="Internal Electronics Chember/Screenshot 2025-03-31 222116.png" alt="Alt Text" style="width: 300px; height: auto; display: inline-block; margin-right: 10px;">
-  <img src="Internal Electronics Chember/Screenshot 2025-03-31 222143.png" alt="Alt Text" style="width: 300px; height: auto; display: inline-block;">
+  <img src="Internal Electronics Chember/Screenshot 2025-03-31 222116.png" alt="Alt Text" style="width: 400px; height: auto; display: inline-block; margin-right: 10px;">
+  <img src="Internal Electronics Chember/Screenshot 2025-03-31 222143.png" alt="Alt Text" style="width: 200px; height: auto; display: inline-block;">
 </div>
 ### **Outcome & Benefits:**
 - The bot achieved **better buoyancy balance**.
