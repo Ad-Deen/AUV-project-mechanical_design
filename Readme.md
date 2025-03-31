@@ -54,6 +54,7 @@ This repository documents the mechanical design considerations and evolution of 
 - Hull internal chamber is designed to accomodate the power and logic circuit with esc controllers and micro controllers.
 - The 3D prints are done with PETG+ 100% infill density.
 <img src="version_2_designs/cog gif/COGadaptation-ezgif.com-video-to-gif-converter.gif" alt="Alt Text" width="600" height="400">
+
 ### **Outcome & Benefits:**
 - The bot achieved **better buoyancy balance**.
 - **Improved energy efficiency**, as less power was required to stabilize and move.
