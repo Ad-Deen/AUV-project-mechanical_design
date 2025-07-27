@@ -16,7 +16,6 @@ This repository documents the mechanical design considerations and evolution of 
 <img src="Version1_content/PXL_20231230_095338993.MP.jpg" alt="Alt Text" width="400" height="300">
 
 
-
 ### **Challenges Faced:**
 - The **center of mass** shifted backward, affecting stability.
 - The **bot became overly buoyant**, requiring **up to 15 kg** of additional external weight to counteract the buoyancy.
@@ -41,8 +40,11 @@ This repository documents the mechanical design considerations and evolution of 
   ensured the bot achieved **neutral buoyancy at 9 kg**, without requiring additional weights.
 - Slots were still included in the design for **optional weight adjustments**, providing flexibility.
 
-<img src="version_2_designs/f9e5c548-d17d-46be-9264-5f9d83f82e55.PNG" alt="Alt Text" width="700" height="300">
-<img src="manuactured_v2/photo_6178945956293232208_y.jpg" alt="Alt Text" width="400" height="300">
+<img src="version_2_designs/f9e5c548-d17d-46be-9264-5f9d83f82e55.PNG" alt="Alt Text" width="600" height="400">
+<img src="manuactured_v2/photo_6178945956293232208_y.jpg" alt="Alt Text" width="600" height="400">
+<img src="version_2_designs/photo_6156625337673434372_y.jpg" alt="Alt Text" width="600" height="400">
+<img src="version_2_designs/photo_6178945956293232209_y.jpg" alt="Alt Text" width="600" height="400">
+
 
 ### **Centre of Gravity adjustment system:**
 - **The x axis is th principal axis for the robot's orientation** and we can adjust centre of gravity distribution along the principal axis for **robust passive adjustment** of it's centre of gravity alighment.
