@@ -51,6 +51,7 @@ This repository documents the mechanical design considerations and evolution of 
 <img src="version_2_designs/cog gif/COGadaptation-ezgif.com-video-to-gif-converter.gif" alt="Alt Text" width="600" height="400">
 - Here is the working version of the same mechanism on our AUV
 <img src="version_2_designs/COG shift demo.gif" alt="Alt Text" width="600" height="400">
+
 ### **Internal Design for Electronics assembly:**
 - Hull internal chamber is designed to accomodate the power and logic circuit with esc controllers and micro controllers.
 - The 3D prints are done with PETG+ 100% infill density.
