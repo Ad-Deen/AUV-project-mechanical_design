@@ -61,6 +61,9 @@ This repository documents the mechanical design considerations and evolution of 
   <img src="Internal Electronics Chember/Screenshot 2025-03-31 222116.png" alt="Alt Text" style="width: 600px; height: auto; display: inline-block; margin-right: 10px;">
   <img src="Internal Electronics Chember/Screenshot 2025-03-31 222143.png" alt="Alt Text" style="width: 200px; height: auto; display: inline-block;">
 </div>
+- The internal design section placed with electronics after the manufacturing and printing the Designs
+
+  <img src="version_2_designs/PXL_20250214_164035725.PORTRAIT.jpg" alt="Alt Text"> 
 
 
 ### **Custom 6 DOF manipulator Design:**
