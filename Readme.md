@@ -95,7 +95,7 @@ This repository documents the mechanical design considerations and evolution of 
 | [FrameV2(Holds the propellers with hull)](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/305221f855414a7adf2119a9c982b4c0/original.png) | Custom printed with Fusion360  | 6 parts   | [Printer](https://robohub.com.bd/printing-products)|
 | [FrameV3(Holds the propellers with hull)](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/5d900b18f20a09c7b10679acbfe8f5c5/original.png) | Custom printed with Fusion360  | 9 parts   | [Printer](https://robohub.com.bd/printing-products)|
 | Killswitch Rotary       | Emergency Shutdown | 1     |[Blue Robotics](https://bluerobotics.com/product-category/watertight-enclosures/locking-series/) |
-| [Robotic Manipulator Arm(Custom Made)](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/e86ad652f1174167f072f850d9c034c4/original.png)       | Fetching obstacles underwater(3cubic-cm volume) | 13     |[Printer](https://robohub.com.bd/printing-products)|
+| [Robotic Manipulator Arm(Custom Made)](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/e86ad652f1174167f072f850d9c034c4/original.png)       | Fetching obstacles underwater(3cubic-cm volume) | 13 parts |[Printer](https://robohub.com.bd/printing-products)|
 
 
 ### **Outcome & Benefits:**
