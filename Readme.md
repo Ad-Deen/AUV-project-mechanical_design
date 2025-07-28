@@ -95,6 +95,8 @@ This repository documents the mechanical design considerations and evolution of 
 | [FrameV2(Holds the propellers with hull)](https://grabcad.com/library/project-orca-auv-1) | Custom printed with Fusion360  | 6 parts   | [Printer](https://robohub.com.bd/printing-products)|
 | [FrameV3(Holds the propellers with hull)](https://grabcad.com/library/project-orca-auv-1) | Custom printed with Fusion360  | 9 parts   | [Printer](https://robohub.com.bd/printing-products)|
 | Killswitch Rotary       | Emergency Shutdown | 1     |[Blue Robotics](https://bluerobotics.com/product-category/watertight-enclosures/locking-series/) |
+| [Robotic Manipulator Arm(Custom Made)](https://grabcad.com/library/project-orca-auv-1)       | Fetching obstacles underwater(3cubic-cm volume) | 13     |[Printer](https://robohub.com.bd/printing-products)|
+
 
 ### **Outcome & Benefits:**
 - The bot achieved **better buoyancy balance**.
