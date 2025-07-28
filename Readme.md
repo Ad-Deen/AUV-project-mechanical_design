@@ -91,11 +91,11 @@ This repository documents the mechanical design considerations and evolution of 
 | [Main Hull & Caps](https://grabcad.com/library/project-orca-auv-1)        | The Acryllic cylindar caging all electronics| 1        | [Blue Robotics](https://bluerobotics.com/product-category/watertight-enclosures/locking-series/) |
 | [BLDC Propellers](https://grabcad.com/library/project-orca-auv-1)         |Thrusters for Actuation| 8        | [RoboticsBD](https://store.roboticsbd.com/underwater-robotics/1372-underwater-thruster-brushless-motor-4-blade-propeller-propulsion-30-200w-pair-robotics-bangladesh.html) |
 | Beat LiPo Battery 4S    | Main power Source| 2(parallel)        | [Local online sources](https://radiogearbd.com/) |
-| [FrameV1(Holds the propellers with hull)](https://grabcad.com/library/project-orca-auv-1) | Custom printed with Fusion360  | 5 parts   | [Printer](https://robohub.com.bd/printing-products)
-| [FrameV2(Holds the propellers with hull)](https://grabcad.com/library/project-orca-auv-1) | Custom printed with Fusion360  | 6 parts   | [Printer](https://robohub.com.bd/printing-products)|
-| [FrameV3(Holds the propellers with hull)](https://grabcad.com/library/project-orca-auv-1) | Custom printed with Fusion360  | 9 parts   | [Printer](https://robohub.com.bd/printing-products)|
+| [FrameV1(Holds the propellers with hull)](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/df02c0b4d97d6d60ab800cae76a2f348/original.png) | Custom printed with Fusion360  | 5 parts   | [Printer](https://robohub.com.bd/printing-products)
+| [FrameV2(Holds the propellers with hull)](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/305221f855414a7adf2119a9c982b4c0/original.png) | Custom printed with Fusion360  | 6 parts   | [Printer](https://robohub.com.bd/printing-products)|
+| [FrameV3(Holds the propellers with hull)](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/5d900b18f20a09c7b10679acbfe8f5c5/original.png) | Custom printed with Fusion360  | 9 parts   | [Printer](https://robohub.com.bd/printing-products)|
 | Killswitch Rotary       | Emergency Shutdown | 1     |[Blue Robotics](https://bluerobotics.com/product-category/watertight-enclosures/locking-series/) |
-| [Robotic Manipulator Arm(Custom Made)](https://grabcad.com/library/project-orca-auv-1)       | Fetching obstacles underwater(3cubic-cm volume) | 13     |[Printer](https://robohub.com.bd/printing-products)|
+| [Robotic Manipulator Arm(Custom Made)](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/e86ad652f1174167f072f850d9c034c4/original.png)       | Fetching obstacles underwater(3cubic-cm volume) | 13     |[Printer](https://robohub.com.bd/printing-products)|
 
 
 ### **Outcome & Benefits:**
