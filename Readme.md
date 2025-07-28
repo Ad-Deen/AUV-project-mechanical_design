@@ -108,9 +108,9 @@ This repository documents the mechanical design considerations and evolution of 
 [Access Folder on Google Drive](https://drive.google.com/drive/folders/1BLFM8DaaLz3syUbcvgXGc0M6o55n4rce?usp=drive_link)
 
 ### **Contribution to AUV Community:**
--We are **open sourcing our design** parts so that any one may find our design useful and use it for their own projects and research for further advancement of AUV technology.
--Anyone interested might find our design parts in the GrabCAD community [here](https://grabcad.com/library/project-orca-auv-1).
-
+- We are **open sourcing our design** parts so that any one may find our design useful and use it for their own projects and research for further advancement of AUV technology.
+- Anyone interested might find our design parts in the GrabCAD community [here](https://grabcad.com/library/project-orca-auv-1).
+- Fusion Design files are [**here**](https://drive.google.com/drive/folders/1AVeISJ2-F0yfOsdWyq161qzJSzpWZmEW?usp=sharing) 
 
 ## **Conclusion**
 Through iterative mechanical design, we successfully transitioned from an overweight, difficult-to-control AUV to a compact, efficient, and neutrally buoyant design. These insights will guide further refinements in our pursuit of a high-performance underwater vehicle.
