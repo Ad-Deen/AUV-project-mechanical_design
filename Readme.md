@@ -96,6 +96,7 @@ This repository documents the mechanical design considerations and evolution of 
 | [FrameV3(Holds the propellers with hull)](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/5d900b18f20a09c7b10679acbfe8f5c5/original.png) | Custom printed with Fusion360  | 9 parts   | [Printer](https://robohub.com.bd/printing-products)|
 | Killswitch Rotary       | Emergency Shutdown | 1     |[Blue Robotics](https://bluerobotics.com/product-category/watertight-enclosures/locking-series/) |
 | [Robotic Manipulator Arm(Custom Made)](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/e86ad652f1174167f072f850d9c034c4/original.png)       | Fetching obstacles underwater(3cubic-cm volume) | 13 parts |[Printer](https://robohub.com.bd/printing-products)|
+| Buoyancy Box(custom made)[https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/9e2de9b92106f65e2a5b7596a32450cb/original.png]  | Designed to control dive depth using Buoyancy | 8 parts    | [Printer](https://robohub.com.bd/printing-products) |
 
 
 ### **Outcome & Benefits:**
