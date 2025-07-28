@@ -88,14 +88,13 @@ This repository documents the mechanical design considerations and evolution of 
 - 
 | Component Name      | Description                  | Quantity | Supplier / Source      |
 |---------------------|------------------------------|----------|-----------------------|
-| Main Hull & Caps        | The Acryllic cylindar caging all electronics| 1        | [Blue Robotics](https://bluerobotics.com/product-category/watertight-enclosures/locking-series/) |
-| BLDC Propellers         |Thrusters for Actuation| 8        | [RoboticsBD](https://store.roboticsbd.com/underwater-robotics/1372-underwater-thruster-brushless-motor-4-blade-propeller-propulsion-30-200w-pair-robotics-bangladesh.html) |
+| [Main Hull & Caps](https://grabcad.com/library/project-orca-auv-1)        | The Acryllic cylindar caging all electronics| 1        | [Blue Robotics](https://bluerobotics.com/product-category/watertight-enclosures/locking-series/) |
+| [BLDC Propellers](https://grabcad.com/library/project-orca-auv-1)         |Thrusters for Actuation| 8        | [RoboticsBD](https://store.roboticsbd.com/underwater-robotics/1372-underwater-thruster-brushless-motor-4-blade-propeller-propulsion-30-200w-pair-robotics-bangladesh.html) |
 | Beat LiPo Battery 4S    | Main power Source| 2(parallel)        | [Local online sources](https://radiogearbd.com/) |
-| FrameV1(Holds the propellers with hull) | Custom made with Fusion360  | 5 parts   | [Printer](https://robohub.com.bd/printing-products)
-| FrameV2(Holds the propellers with hull) | Custom made with Fusion360  | 5 parts   | [Printer](https://robohub.com.bd/printing-products)|
+| [FrameV1(Holds the propellers with hull)](https://grabcad.com/library/project-orca-auv-1) | Custom printed with Fusion360  | 5 parts   | [Printer](https://robohub.com.bd/printing-products)
+| [FrameV2(Holds the propellers with hull)](https://grabcad.com/library/project-orca-auv-1) | Custom printed with Fusion360  | 6 parts   | [Printer](https://robohub.com.bd/printing-products)|
+| [FrameV3(Holds the propellers with hull)](https://grabcad.com/library/project-orca-auv-1) | Custom printed with Fusion360  | 9 parts   | [Printer](https://robohub.com.bd/printing-products)|
 | Killswitch Rotary       | Emergency Shutdown | 1     |[Blue Robotics](https://bluerobotics.com/product-category/watertight-enclosures/locking-series/) |
-| ...                 | ...                          | ...      | ...                   |
-| ...                 | ...                          | ...      | ...                   |
 
 ### **Outcome & Benefits:**
 - The bot achieved **better buoyancy balance**.
