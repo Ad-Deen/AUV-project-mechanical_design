@@ -108,7 +108,7 @@ This repository documents the mechanical design considerations and evolution of 
 
 ### **Contribution to AUV Community:**
 -We are **open sourcing our design** parts so that any one may find our design useful and use it for their own projects and research for further advancement of AUV technology.
--Anyone interested might find our design parts in the GrabCAD community [here](https://grabcad.com/library).
+-Anyone interested might find our design parts in the GrabCAD community [here](https://grabcad.com/library/project-orca-auv-1).
 
 
 ## **Conclusion**
