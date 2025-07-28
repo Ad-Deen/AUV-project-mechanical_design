@@ -83,6 +83,20 @@ This repository documents the mechanical design considerations and evolution of 
   <img src="Robotic manipualtor/manipulator-ezgif.com-video-to-gif-converter.gif" alt="Alt Text" style="width: 400px; height: auto; display: inline-block;">
 </div>
 
+### **Summary of Components Used for Mechanical Development:**
+- We used the following components listed below in the table:
+- 
+| Component Name      | Description                  | Quantity | Supplier / Source      |
+|---------------------|------------------------------|----------|-----------------------|
+| Main Hull & Caps        | The Acryllic cylindar caging all electronics| 1        | [Blue Robotics](https://bluerobotics.com/product-category/watertight-enclosures/locking-series/) |
+| BLDC Propellers         |Thrusters for Actuation| 8        | [RoboticsBD](https://store.roboticsbd.com/underwater-robotics/1372-underwater-thruster-brushless-motor-4-blade-propeller-propulsion-30-200w-pair-robotics-bangladesh.html) |
+| Beat LiPo Battery 4S    | Main power Source| 2(parallel)        | [Local online sources](https://radiogearbd.com/) |
+| FrameV1(Holds the propellers with hull) | Custom made with Fusion360  | 5 parts   | [Printer](https://robohub.com.bd/printing-products)
+| FrameV2(Holds the propellers with hull) | Custom made with Fusion360  | 5 parts   | [Printer](https://robohub.com.bd/printing-products)|
+| Killswitch Rotary       | Emergency Shutdown | 1     |[Blue Robotics](https://bluerobotics.com/product-category/watertight-enclosures/locking-series/) |
+| ...                 | ...                          | ...      | ...                   |
+| ...                 | ...                          | ...      | ...                   |
+
 ### **Outcome & Benefits:**
 - The bot achieved **better buoyancy balance**.
 - **Improved energy efficiency**, as less power was required to stabilize and move.
