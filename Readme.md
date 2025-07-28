@@ -85,7 +85,7 @@ This repository documents the mechanical design considerations and evolution of 
 
 ### **Summary of Components Used for Mechanical Development:**
 - We used the following components listed below in the table:
-- 
+ 
 | Component Name      | Description                  | Quantity | Supplier / Source      |
 |---------------------|------------------------------|----------|-----------------------|
 | [Main Hull & Caps](https://grabcad.com/library/project-orca-auv-1)        | The Acryllic cylindar caging all electronics| 1        | [Blue Robotics](https://bluerobotics.com/product-category/watertight-enclosures/locking-series/) |
