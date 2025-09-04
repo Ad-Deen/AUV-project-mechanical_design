@@ -3,6 +3,8 @@
 ## Overview
 This repository documents the mechanical design considerations and evolution of our Autonomous Underwater Vehicle (AUV) Project - Orca. The primary focus is on achieving optimal buoyancy, stability, and structural integrity while ensuring efficiency in underwater maneuverability.
 
+<img src="orca_mech.gif" alt="Alt Text" width="600">
+
 ## **Version 1: Initial Design & Challenges**
 
 ### **Design Approach:**
